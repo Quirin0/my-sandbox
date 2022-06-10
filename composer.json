@@ -1,0 +1,8 @@
+{
+    "name":"my-sandbox/site",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
