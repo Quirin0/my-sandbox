@@ -1,2 +1,2 @@
 ## Sandbox
-* Padrão de loja virtual
+* Padrão de loja virtual utilizando MVC
